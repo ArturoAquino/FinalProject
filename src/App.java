@@ -44,7 +44,7 @@ public class App {
 		System.out.println("Player 1's score: " + player1Score);
 		System.out.println("Player 2's score: " + player2Score);
 	
-		// If statment to determine who won 
+		// If statement to determine who won 
 		if (player1Score > player2Score) {
 			System.out.println("Player 1 wins." );
 		} else if (player1Score < player2Score) {

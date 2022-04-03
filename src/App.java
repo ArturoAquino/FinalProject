@@ -40,6 +40,8 @@ public class App {
 				player1Score = player1.incrementScore();
 			}
 		}
+
+	
 		
 		System.out.println("Player 1's score: " + player1Score);
 		System.out.println("Player 2's score: " + player2Score);
